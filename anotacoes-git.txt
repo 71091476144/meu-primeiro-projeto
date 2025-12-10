@@ -1,0 +1,36 @@
+==============================
+ANOTAÇÕES DE GIT - INICIANTE
+Autor: Adrian Rodrigues
+==============================
+
+COMANDOS BÁSICOS:
+
+1) git status
+Verifica o estado dos arquivos do projeto.
+
+2) git add .
+Adiciona TODOS os arquivos alterados para preparação do commit.
+
+3) git add nome-do-arquivo
+Adiciona apenas um arquivo específico.
+
+4) git commit -m "mensagem"
+Cria uma nova versão do projeto no histórico.
+
+5) git push
+Envia os commits para o GitHub.
+
+6) git pull
+Baixa as atualizações do GitHub para o computador.
+
+FLUXO PADRÃO DO DIA A DIA:
+
+1 → Altero arquivos  
+2 → git status  
+3 → git add .  
+4 → git commit -m "descrição"  
+5 → git push  
+
+Isso deve ser feito SEMPRE que eu evoluir um projeto.
+
+==============================

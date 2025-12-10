@@ -1,0 +1,8 @@
+SISTEMA DE CONTROLE DE TAREFAS - VERSÃO 1.0
+
+1 - Adicionar tarefa
+2 - Listar tarefas
+3 - Remover tarefa
+4 - Sair
+
+Este é um projeto conceitual para treinar lógica e versionamento com Git.

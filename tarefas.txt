@@ -1,0 +1,3 @@
+[ ] Estudar Git
+[ ] Criar meu primeiro projeto
+[ ] Aprender lógica de programação

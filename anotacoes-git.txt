@@ -34,3 +34,25 @@ FLUXO PADRÃO DO DIA A DIA:
 Isso deve ser feito SEMPRE que eu evoluir um projeto.
 
 ==============================
+
+ "Para uma vitrine profissional"
+ Sempre siga esse modelo:
+# Nome do Projeto
+
+Descrição curta do que o projeto faz.
+
+## Tecnologias usadas
+- Git
+- GitHub
+- Lógica de Programação
+
+## O que eu aprendi
+- Controle de versões
+- Organização de projeto
+- Versionamento profissional
+
+## Como executar
+Explique como usar o projeto.
+
+## Autor
+Seu nome + curso + faculdade

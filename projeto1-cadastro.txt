@@ -1,0 +1,21 @@
+SISTEMA DE CADASTRO DE PESSOAS
+
+MENU:
+1 - Cadastrar pessoa
+2 - Listar pessoas
+3 - Sair
+
+LOGICA:
+Se opção = 1
+  Pedir nome
+  Pedir idade
+  Salvar no sistema
+FimSe
+
+Se opção = 2
+  Mostrar todas as pessoas cadastradas
+FimSe
+
+Se opção = 3
+  Encerrar sistema
+FimSe
